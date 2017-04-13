@@ -1,0 +1,22 @@
+.container{
+    margin-left:-5em;
+}
+#portfolio h3{
+    color:white;
+}
+#portfolio a{
+  color: ivory;
+}
+.caption{
+  background: rgba(90, 90, 90, .5);
+}
+.slide{
+  height: 500px;
+}
+.nav li a:hover,
+.nav li a:focus {
+    background:transparent;
+}
+#home h3{
+  color:ivory;
+}
