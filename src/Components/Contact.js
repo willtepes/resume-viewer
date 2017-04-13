@@ -26,7 +26,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
               <h4>Email</h4>
-              <a href={email}>will.homan@hotmail.com</a>
+              <a href={email}>{email}</a>
             </div>
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
