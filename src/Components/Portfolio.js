@@ -54,7 +54,7 @@ class Portfolio extends Component {
                             <img src="images/website.jpg" alt="Image from this site" />
                             <div className="carousel-caption caption">
                             <h3>This Website</h3>
-                            <p>Website template rebuilt with React and API call</p>
+                            <p>Website template rebuilt with React and API call to Node server</p>
                             <p><a href="https://github.com/willtepes/resume-viewer" className="btn btn-primary" role="button">See the code <i className="fa fa-fw fa-github"></i></a></p>
                             </div>
                         </div>
