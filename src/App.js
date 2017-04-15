@@ -19,7 +19,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://willtepes.github.io/resume-viewer/resumeData.json',
+      url:'http://54.244.184.150/getdata/',
       dataType:'json',
       cache: false,
       success: function(data){
