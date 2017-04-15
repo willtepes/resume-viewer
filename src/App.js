@@ -19,7 +19,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'http://54.149.237.33/getdata/',
+      url:'https://crossorigin.me/http://54.149.237.33/getdata/',
       dataType:'json',
       cache: false,
       success: function(data){
