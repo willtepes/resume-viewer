@@ -19,7 +19,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://crossorigin.me/http://54.149.237.33/getdata/',
+      url:'https://willtepes.github.io/resume-viewer/resumeData.json', //This would normally point to Node server at 54.149.237.33/getdata - but I don't currently have a domain/ssl cert so the json is copied locally - server is still up and will respond to GET requests
       dataType:'json',
       cache: false,
       success: function(data){
