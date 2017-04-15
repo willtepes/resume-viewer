@@ -1,5 +1,7 @@
-.container{
+@media (min-width: 960px) {
+  .container{
     margin-left:-5em;
+}
 }
 #portfolio h3{
     color:white;
@@ -11,7 +13,7 @@
   background: rgba(90, 90, 90, .5);
 }
 .slide{
-  height: 500px;
+  height: 30em;
 }
 .nav li a:hover,
 .nav li a:focus {
