@@ -8,6 +8,7 @@ import Footer from './Components/Footer';
 import Portfolio from './Components/Portfolio';
 import Resume from './Components/Resume';
 import Testimonials from './Components/Testimonials';
+import Bot from './Components/Bot';
 
 class App extends Component {
   constructor(props){

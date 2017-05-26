@@ -29,7 +29,7 @@ class Portfolio extends Component {
                             <h3>DojoLyfe</h3>
                             <p>Tamagotchi style game developed in Unity (C#)</p>
                             <p><a href="https://github.com/willtepes/dOjoLyfe" className="btn btn-primary" role="button">See the code <i className="fa fa-fw fa-github"></i></a></p>
-                            <p><a href="https://dojolyfe.azurewebsites.net/" className="btn btn-primary" role="button">Play the Game! (Firefox reccomended)</a></p>
+                            {/*<p><a href="https://dojolyfe.azurewebsites.net/" className="btn btn-primary" role="button">Play the Game! (Firefox reccomended)</a></p>*/}
                             </div>
                         </div>
                         <div className="item slide">
@@ -38,7 +38,7 @@ class Portfolio extends Component {
                             <h3>SAGE LP</h3>
                             <p>Learning platform demo developed with Django (Python)</p>
                             <p><a href="https://github.com/willtepes/SAGE-LP" className="btn btn-primary" role="button">See the code <i className="fa fa-fw fa-github"></i></a></p>
-                            <p><a href="http://54.202.78.150" className="btn btn-primary" role="button">Deployed on EC2</a></p>
+                            {/*<p><a href="http://54.202.78.150" className="btn btn-primary" role="button">Deployed on EC2</a></p>*/}
                             </div>
                         </div>
                         <div className="item slide">
@@ -47,7 +47,7 @@ class Portfolio extends Component {
                             <h3>The Wall</h3>
                             <p>Simple Message board built with .NET Core (C#)</p>
                             <p><a href="https://github.com/willtepes/Wall" className="btn btn-primary" role="button">See the code <i className="fa fa-fw fa-github"></i></a></p>
-                            <p><a href="http://cwall.azurewebsites.net/" className="btn btn-primary" role="button">Deployed on Azure</a></p>
+                            {/*<p><a href="http://cwall.azurewebsites.net/" className="btn btn-primary" role="button">Deployed on Azure</a></p>*/}
                             </div>
                         </div>
                         <div className="item slide">
