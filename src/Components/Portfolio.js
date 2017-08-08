@@ -58,6 +58,14 @@ class Portfolio extends Component {
                             <p><a href="https://github.com/willtepes/resume-viewer" className="btn btn-primary" role="button">See the code <i className="fa fa-fw fa-github"></i></a></p>
                             </div>
                         </div>
+                        <div className="item slide">
+                            <img src="images/budget.jpg" alt="Image from budget tracker" />
+                            <div className="carousel-caption caption">
+                            <h3>Family Budget Tracker</h3>
+                            <p>Web app for tracking my family budget built with .NET Core (C#) and hosted on Azure</p>
+                            <p><a href="https://github.com/willtepes/budget" className="btn btn-primary" role="button">See the code <i className="fa fa-fw fa-github"></i></a></p>
+                            </div>
+                        </div>
                         </div>
                         {/* Controls */}
                         <a className="left carousel-control" href="#carousel-portfolio" role="button" data-slide="prev">
