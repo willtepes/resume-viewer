@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Will Homan",
-    "occupation":"Web developer actively seeking full-time opportunities.",
-    "description":"I design and program websites and web applications of all types.",
+    "occupation":"Software Engineer actively seeking full-time developer opportunities.",
+    "description":"I currently provide dev support for Microsoft's Azure cloud platform",
     "image":"profilepic.jpg",
-    "bio":"I am recently graduated from the Coding Dojo in Bellevue and am actively seeking new developer opportunities in the greater Seattle area. I have 9 years previous experience in IT support. I have a passion for all things tech and when not coding you'll find me enjoying life with my wife and two young daughters.",
+    "bio":"I am currently working as a software engineer in a support role while seeking new developer opportunities in the greater Seattle area. I am a graduate of the Coding Dojo in Bellevue and have 9 years previous experience in IT support. I have a passion for all things tech and when not coding you'll find me enjoying life with my wife and two young daughters.",
     "email": "will.homan@hotmail.com",
     "phone": "425-442-6947",
     "address":{
@@ -44,6 +44,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Mindtree Limited",
+        "title":"Software Engineer",
+        "years":"May 2017 - Present",
+        "description":"Currently a member of the CSS Dev team providing development support to customers of Microsoft’s Azure government and commercial clouds."
+      },
       {
         "company":"Teal Group Technologies, Inc",
         "title":"IT Support Engineer",
@@ -149,6 +155,10 @@
       {
         "name":"MongoDB",
         "level":"55%"
+      },
+       {
+        "name":"Azure",
+        "level":"75%"
       },
       {
         "name":"GitHub",
